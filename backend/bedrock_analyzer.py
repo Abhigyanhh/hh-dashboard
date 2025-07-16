@@ -58,12 +58,18 @@ def analyze_journal(journal_text, system_prompt, model_id="mistral.mixtral-8x7b-
         }
     ]
 
+    if model_id == "mistral.mixtral-8x7b-instruct-v0:1":
+        inference_config = {"maxTokens": 4096, "temperature": 0.3, "topP": 0.9}
+    else:
+        inference_config = {"maxTokens": 2048, "temperature": 0.3, "topP": 0.9}
+
     try:
         response = client.converse(
             modelId=model_id,
             messages=conversation,
-            inferenceConfig={"maxTokens": 2048, "temperature": 0.3, "topP": 0.9},
+            inferenceConfig=inference_config,
         )
+
         result = response["output"]["message"]["content"][0]["text"]
         return result
     except (ClientError, Exception) as e:

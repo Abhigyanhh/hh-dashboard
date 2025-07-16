@@ -44,9 +44,12 @@ def analyze_journal(journal_text, system_prompt, model_id="mistral.mixtral-8x7b-
         "\n"
         "CRITICAL CONSTRAINTS:\n"
         "- Output ONLY the JSON object, no other text\n"
-        "- Score must be between 0.0 and 1.0\n"
+        "- Score must be between 0.0 and 1.0 (never NaN, null, or undefined)\n"
         "- Do NOT include subtraits with a score of 0.0\n"
         "- Follow this format exactly\n"
+        "- Only include subtraits that are evident and meaningful from the content\n"
+        "- Do not score every subtrait compulsorily\n"
+        "- All scores must be valid numbers between 0.0 to 1.0\n"
     )
 
     

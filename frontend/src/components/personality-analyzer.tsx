@@ -63,13 +63,6 @@ export default function PersonalityAnalyzer() {
       return;
     }
 
-    if (selectedModel === "meta.llama3-70b-instruct-v1:0") {
-      toast("Advanced Model Selected", {
-        description:
-          "You've selected LLaMA 3 70B — results may be more nuanced and detailed.",
-      });
-    }
-
     setLoading(true);
     setAnalysis(null);
 

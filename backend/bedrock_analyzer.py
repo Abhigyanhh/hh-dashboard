@@ -29,7 +29,7 @@ def analyze_journal(journal_text, system_prompt, model_id="mistral.mixtral-8x7b-
 
     prompt += (
         "\n\n## Output Format:\n"
-        "Return a JSON like:\n"
+        "Return ONLY a JSON object in this exact format with no additional text:\n"
         "{\n"
         '  "TraitName": {\n'
         '    "subtrait_name": {\n'
@@ -39,9 +39,17 @@ def analyze_journal(journal_text, system_prompt, model_id="mistral.mixtral-8x7b-
         '      "analysis": "brief explanation of why this score was chosen"\n'
         "    }\n"
         "  },\n"
-        '  "AnotherTrait": if it’s there\n'
+        '  "AnotherTrait": "if it\'s there"\n'
         "}\n"
+        "\n"
+        "CRITICAL CONSTRAINTS:\n"
+        "- Output ONLY the JSON object, no other text\n"
+        "- Score must be between 0.0 and 1.0\n"
+        "- Do NOT include subtraits with a score of 0.0\n"
+        "- Follow this format exactly\n"
     )
+
+    
 
     conversation = [
         {
@@ -54,7 +62,7 @@ def analyze_journal(journal_text, system_prompt, model_id="mistral.mixtral-8x7b-
         response = client.converse(
             modelId=model_id,
             messages=conversation,
-            inferenceConfig={"maxTokens": 4096, "temperature": 0.3, "topP": 0.9},
+            inferenceConfig={"maxTokens": 2048, "temperature": 0.3, "topP": 0.9},
         )
         result = response["output"]["message"]["content"][0]["text"]
         return result

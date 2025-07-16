@@ -50,6 +50,8 @@ def analyze_journal(journal_text, system_prompt, model_id="mistral.mixtral-8x7b-
         "- Only include subtraits that are evident and meaningful from the content\n"
         "- Do not score every subtrait compulsorily\n"
         "- All scores must be valid numbers between 0.0 to 1.0\n"
+        "- If insufficient content for analysis, return empty JSON object: {}\n"
+        "- Do not invent or hallucinate content not present in the input\n"
     )
 
     

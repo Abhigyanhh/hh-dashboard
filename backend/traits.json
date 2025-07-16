@@ -1,0 +1,211 @@
+{
+    "Openness to Experience": {
+        "definition": "Openness to Experience reflects a person’s tendency to seek out and enjoy new, complex, and intellectually or emotionally stimulating experiences. It encompasses imagination, intellectual curiosity, aesthetic sensitivity, and a willingness to entertain unconventional ideas or values. Individuals high in this trait are drawn to novelty, creativity, and exploration—whether through art, abstract thought, or diverse life experiences. This trait is closely linked to cognitive flexibility, emotional depth, and a preference for variety over routine.",
+        "subtraits": {
+            "Curiosity": "Desire to explore ideas, ask questions, investigate how things work, pursue learning across disciplines",
+            "Imagination": "Rich inner world, use of metaphor or fantasy, tendency to daydream, hypothetical thinking, inventive storytelling",
+            "Appreciation of Beauty": "Sensitivity to art, music, nature; emotional resonance with aesthetics; strong aesthetic preferences",
+            "Novelty-Seeking": "Pursuit of new experiences, low tolerance for repetition, openness to trying unfamiliar activities or ideas",
+            "Cognitive Flexibility": "Ability to shift perspectives, embrace ambiguity, adapt thinking in response to new information",
+            "Unconventional Thinking": "Comfort with abstract, paradoxical, or controversial ideas; challenges norms or traditional views",
+            "Emotional Depth": "Reflective about inner life and feelings, able to articulate complex emotions or existential themes",
+            "Introspective Insight": "Tendency to analyze thoughts and motivations, engage in philosophical or self-reflective dialogue",
+            "Playfulness in Thought": "Enjoyment of absurd, whimsical, or speculative concepts; mental openness without need for resolution",
+            "Preference for Variety": "Seeks stimulation through change, multiple interests or hobbies, resists routine or sameness"
+        }
+    },
+    "Agreeableness": {
+        "definition": "Agreeableness refers to a person’s consistent tendency to be compassionate, cooperative, and motivated to maintain positive interpersonal relationships. It involves sensitivity to the needs and emotions of others, a willingness to compromise, and a general inclination toward kindness and prosocial behavior. Individuals high in agreeableness tend to be trusting, empathetic, emotionally supportive, and disinclined toward conflict or dominance in social situations. This trait influences how one navigates social harmony, emotional attunement, and moral concern for others.",
+        "subtraits": {
+            "Empathy": "Ability to recognize and resonate with others’ emotions; emotionally attuned responses; perspective-taking",
+            "Trust": "Assumes goodwill in others; belief that people are generally honest and reliable; low interpersonal suspicion",
+            "Cooperativeness": "Willingness to collaborate, compromise, and share responsibility; prioritizes group outcomes over individual gain",
+            "Compassion": "Emotional concern for others’ well-being; motivated to alleviate suffering or provide comfort",
+            "Altruism": "Inclination to help without expecting return; volunteerism, generosity, and moral responsibility",
+            "Patience": "Tolerance for interpersonal friction; low reactivity in conflict; willingness to give others time and space",
+            "Conflict Avoidance": "Dislike of interpersonal tension; effort to de-escalate or smooth over disagreements",
+            "Humility": "Downplays superiority; avoids self-aggrandizing; acknowledges others’ contributions with sincerity",
+            "Forgiveness": "Willingness to move past wrongdoing or mistakes; does not hold grudges; emotionally reconciliatory",
+            "Social Harmony Orientation": "Preference for mutual understanding and peace in relationships; discomfort with aggression or competition"
+        }
+    },
+    "Emotional Stability": {
+        "definition": "Emotional Stability refers to an individual’s ability to remain calm, composed, and psychologically balanced across a range of situations, especially under stress. Those high in emotional stability tend to recover quickly from setbacks, maintain control over their emotional responses, and experience fewer intense negative emotions. This trait encompasses inner resilience, emotional regulation, and a generally steady temperament that allows for consistent functioning even in challenging circumstances. It influences how well a person tolerates uncertainty, manages conflict, and maintains perspective.",
+        "subtraits": {
+            "Resilience": "Quick recovery from emotional or situational stress; ability to “bounce back” after setbacks",
+            "Calmness": "Low baseline anxiety; presence of inner peace or even-temperedness; steady under pressure",
+            "Low Reactivity": "Minimal overreaction to triggers or perceived slights; measured emotional responses to conflict or chaos",
+            "Emotional Regulation": "Conscious management of emotional impulses; ability to self-soothe and maintain control during distress",
+            "Stress Tolerance": "High threshold for overwhelm; handles demanding situations without breakdown or panic",
+            "Self-Assurance": "General sense of inner confidence and stability; not easily shaken by external judgment or failure",
+            "Mood Consistency": "Emotional tone remains steady over time; rare mood swings or volatility",
+            "Perspective-Holding": "Ability to zoom out in emotionally charged situations; reframes problems with rational clarity",
+            "Patience Under Pressure": "Maintains composure and thoughtfulness during tension or delays; doesn’t escalate unnecessarily",
+            "Secure Self-Image": "Low susceptibility to shame, self-doubt, or chronic insecurity; healthy self-concept"
+        }
+    },
+    "Core Values (Schwartz’s Value Model)": {
+        "definition": "Core values are guiding principles that reflect what individuals prioritize in their decisions, behavior, and relationships. Unlike emotional states or personality traits, values represent deeply held beliefs about what is important in life. These values shape personal meaning-making, goal setting, and moral judgments. The Schwartz model identifies universal value dimensions that span individualism, collectivism, openness to change, and conservation — capturing motivations like care, growth, order, or pleasure.",
+        "subtraits": {
+            "Benevolence (Caring, Loyalty)": "Commitment to close others’ well-being; emotional warmth; loyalty to family or friends; acts of kindness; prioritizing harmony in relationships",
+            "Universalism (Fairness, Tolerance)": "Emphasis on equality, human rights, social justice; acceptance of diversity; concern for nature and global welfare; opposition to prejudice",
+            "Self-Direction (Independence, Creativity)": "Autonomy in thought and behavior; valuing freedom of choice; pursuit of authenticity and personal exploration; creative expression",
+            "Stimulation (Novelty, Variety)": "Thrill-seeking; desire for excitement and unpredictability; attraction to change; avoidance of monotony; seeking challenges and adventure",
+            "Security (Stability, Harmony)": "Importance of safety, predictability, and social order; aversion to disruption; desire for physical and emotional protection; reliance on structure",
+            "Achievement (Success, Ambition)": "Drive to attain goals and demonstrate competence; value placed on excellence, performance, recognition, and measurable impact",
+            "Hedonism (Pleasure, Enjoyment)": "Pursuit of sensory gratification and personal enjoyment; indulgence in leisure, food, intimacy, and entertainment; avoidance of restraint",
+            "Tradition (Respect for Customs)": "Reverence for cultural or religious rituals; importance of heritage, duty, and long-standing practices; resistance to cultural change",
+            "Conformity (Obedience, Order)": "Adherence to social norms; compliance with rules or expectations; preference for discipline, politeness, and non-disruption of group harmony"
+        }
+    },
+    "Interpersonal Warmth": {
+        "definition": "Interpersonal Warmth reflects a person’s consistent tendency to express kindness, approachability, emotional availability, and care in their social interactions. It captures both the affective tone (friendly, affectionate) and the motivational orientation (welcoming, supportive) that define how someone engages relationally. People high in this trait tend to foster trust, create emotional safety, and prioritize connection over control or competition. It is a key dimension of interpersonal style, shaping the felt sense of closeness and openness in their relationships.",
+        "subtraits": {
+            "Friendliness": "Expresses warmth through smiles, greetings, inclusive language; easily initiates connection; non-defensive social energy",
+            "Affection": "Comfortable with closeness; uses caring language, touch, or gestures to express fondness; enjoys emotional intimacy",
+            "Emotional Openness": "Shares inner thoughts and feelings; welcomes emotional expression from others; vulnerable without being intrusive",
+            "Generosity": "Freely offers time, attention, or resources; gives without expecting return; emotionally giving and supportive",
+            "Approachability": "Invites interaction; communicates safety and acceptance; uses open body language and nonjudgmental tone",
+            "Expressive Warmth": "Communicates with warmth in tone, phrasing, or body language; emotionally present in interactions",
+            "Relational Attunement": "Attentive to others’ emotional cues; adapts responses to provide comfort or encouragement",
+            "Non-Guardedness": "Low defensiveness; allows others to see their softer, emotional side; avoids coldness or emotional withholding",
+            "Low Hostility": "Rarely critical, sarcastic, or dismissive; avoids passive-aggressive or demeaning social behavior",
+            "Supportive Orientation": "Encourages others’ growth and well-being; emotionally affirms rather than competes or critiques"
+        }
+    },
+    "Emotional Dominance": {
+        "definition": "Emotional Dominance refers to a person’s tendency to assert their emotional needs clearly, directly, and consistently within relationships. It involves a willingness to express dissatisfaction, set emotional boundaries, and prioritize one’s own psychological well-being—even in the face of conflict or discomfort. Individuals high in emotional dominance are typically confident in naming their emotional expectations and are less likely to suppress discontent for the sake of harmony. This trait reflects a blend of self-protectiveness, emotional agency, and clarity in relational communication.",
+        "subtraits": {
+            "Assertiveness in Emotional Needs": "Clearly communicates wants and boundaries; prioritizes emotional needs in decision-making and dialogue",
+            "Willingness to Express Dissatisfaction": "Addresses conflict head-on; verbalizes emotional discontent instead of internalizing or avoiding it",
+            "Emotional Boundary-Setting": "Defines and defends emotional limits; protects against emotional enmeshment, overreach, or guilt-based influence",
+            "Low Emotional Submissiveness": "Unlikely to over-accommodate or silence feelings to maintain peace; stands ground in emotionally charged situations",
+            "Self-Advocacy": "Defends emotional integrity; expects respect for feelings and values in close relationships",
+            "Discomfort with Emotional Suppression": "Finds it difficult or unacceptable to \"bottle things up\"; values emotional honesty and full expression",
+            "Unafraid of Emotional Confrontation": "Approaches emotional tension directly; sees it as necessary for clarity or resolution",
+            "Sense of Emotional Entitlement": "Believes their feelings are valid and deserve space; does not minimize their own emotional experience",
+            "Low Passive-Aggressiveness": "Tends to be direct rather than indirect with emotional grievances; less likely to use guilt or withdrawal tactics",
+            "Confidence in Emotional Voice": "Comfortable being the first to name tension, disappointment, or unmet needs in a relationship"
+        }
+    },
+    "Behavioral Dominance": {
+        "definition": "Behavioral Dominance refers to a person’s tendency to assert control, take charge of situations, and influence outcomes through action. It includes visible leadership, confident decision-making, and a drive to set and achieve goals with clarity and direction. Individuals high in this trait are often seen as directive, proactive, and unafraid to lead in social, professional, or relational contexts. This form of dominance reflects task-focused assertiveness rather than emotional expressiveness, and often conveys authority, ambition, and a preference for structure and control.",
+        "subtraits": {
+            "Leadership": "Assumes authority naturally; comfortable leading groups; influences others' actions through clarity and confidence",
+            "Initiative-Taking": "Self-starting; doesn’t wait for permission or direction; mobilizes action early and consistently",
+            "Decisiveness": "Makes firm choices quickly; minimal wavering or second-guessing; directs others with clarity in uncertain situations",
+            "Goal-Direction": "Focused on objectives; prioritizes action plans and outcomes; structures tasks toward clear ends",
+            "High Task Control": "Organizes resources and people to execute plans; resists ambiguity or lack of progress",
+            "Command Presence": "Projects authority in tone and body language; others defer or respond to their assertive cues",
+            "Low Compliance": "Pushes back against direction they disagree with; prefers leading over following unless trust is high",
+            "Strategic Orientation": "Balances long-term goals with short-term moves; action is typically intentional, not reactive",
+            "Drive for Influence": "Seeks to shape outcomes or environments; wants their presence to have a clear impact",
+            "Low Behavioral Inhibition": "Willing to act boldly; less restrained by social hesitancy, second-guessing, or fear of failure"
+        }
+    },
+    "Extraversion": {
+        "definition": "Extraversion refers to a person’s general tendency to seek stimulation in the company of others, marked by sociability, high energy, and assertive social engagement. Individuals high in extraversion often experience positive affect from external interactions, express themselves with enthusiasm, and tend to dominate conversations or social settings. This trait includes both the desire for social connection and the behavioral confidence to actively participate, initiate, or lead in interpersonal environments. It influences how individuals recharge (externally vs. internally), how expressive they are, and how they navigate group dynamics.",
+        "subtraits": {
+            "Sociability": "Enjoys being around people; seeks out gatherings or group interaction; low need for solitude",
+            "Energy": "High baseline vitality; animated physical presence; maintains momentum across social and non-social tasks",
+            "Enthusiasm": "Expressive emotional tone; excitement or passion in speech and actions; frequent laughter or exuberance",
+            "Assertive Social Behavior": "Comfortable initiating conversations, leading group interactions, or taking up space socially",
+            "Talkativeness": "Verbally expressive; thinks out loud; enjoys engaging in extended conversations or debates",
+            "Social Boldness": "Unafraid to approach strangers, perform publicly, or express opinions openly in groups",
+            "Reward Sensitivity": "Drawn to fun, stimulation, and external validation; motivated by praise, attention, or novelty",
+            "Positive Affectivity": "Often experiences and displays joy, amusement, eagerness, or playful spontaneity",
+            "Low Social Withdrawal": "Rarely avoids social interaction; energized rather than drained by people’s presence",
+            "Fast Social Tempo": "Quick to respond, joke, or lead in social rhythm; accelerates group pace through presence or tone"
+        }
+    },
+    "Conscientiousness": {
+        "definition": "Conscientiousness is a personality trait characterized by a consistent tendency toward self-discipline, goal orientation, and adherence to rules or standards. It reflects how organized, responsible, and dependable a person is in their approach to tasks, obligations, and long-term commitments. Individuals high in conscientiousness are typically reliable, structured in their behavior, and exhibit strong impulse control — often planning ahead, meeting deadlines, and upholding personal or social responsibilities. This trait underpins achievement orientation, accountability, and behavioral consistency over time.",
+        "subtraits": {
+            "Organization": "Maintains order in tasks, space, or plans; uses systems or structure to manage responsibilities",
+            "Responsibility": "Follows through on commitments; honors obligations; takes ownership of outcomes",
+            "Reliability": "Consistently dependable; others trust them to show up, deliver, or execute without supervision",
+            "Impulse Control": "Resists distractions, temptations, or emotional impulses; thinks before acting",
+            "Goal Orientation": "Works steadily toward objectives; values progress, milestones, and completion",
+            "Rule Adherence": "Abides by rules, expectations, or procedures; respects systems and accountability frameworks",
+            "Planning": "Thinks ahead; maps out steps; prepares for contingencies or timelines",
+            "Task Persistence": "Stays focused over time; completes what they start; handles boring or difficult tasks without quitting",
+            "Attention to Detail": "Notices and manages small elements of a task or situation; avoids careless errors",
+            "Self-Discipline": "Controls urges or short-term desires in service of long-term goals or duties"
+        }
+    },
+    "Risk Orientation": {
+        "definition": "Risk Orientation refers to an individual’s consistent tendency to either approach or avoid uncertainty, novelty, and potential danger in decision-making and behavior. It reflects a person's baseline comfort with unpredictable outcomes and their willingness to take chances in pursuit of reward, growth, or stimulation. Individuals high in risk orientation are more open to unfamiliar paths, exploration, and even failure, whereas those low in risk orientation prefer security, routine, and predictability. This trait influences exploration patterns, career choices, relationship dynamics, and lifestyle preferences.",
+        "subtraits": {
+            "Comfort with Uncertainty": "Emotionally tolerant of unpredictability; does not require full control to act or decide",
+            "Novelty-Seeking": "Actively pursues new experiences, challenges, or changes; drawn to innovation or the unknown",
+            "Security-Seeking": "Prefers predictability, routine, and safety; avoids unknown variables or environments",
+            "Tolerance for Ambiguity": "Makes peace with incomplete information; willing to act without needing all answers",
+            "Risk Tolerance": "Engages in behaviors with uncertain outcomes; may accept higher stakes or potential downsides",
+            "Caution vs. Boldness": "Spectrum from hesitancy and thorough risk assessment to spontaneity and rapid action",
+            "Adaptive Flexibility": "Adjusts well to changing conditions; can pivot strategies or expectations without distress",
+            "Long-Term vs. Short-Term Orientation": "May prioritize immediate exploration or gains (high risk-takers) vs. stable planning (low risk-takers)",
+            "Emotional Reactivity to Risk": "High: anxiety, doubt; Low: thrill, curiosity, calculated optimism",
+            "Innovation Preference": "Openness to breaking patterns or disrupting norms; less bound to tradition or proven paths"
+        }
+    },
+    "Conflict Approach Style": {
+        "definition": "Conflict Approach Style refers to the consistent manner in which an individual engages with disagreement, tension, or relational rupture. It encompasses strategies ranging from collaborative problem-solving to avoidant or defensive reactions. This trait reflects how a person manages emotional triggers, balances self-protection with empathy, and whether they prioritize resolution, control, or avoidance. It influences relational stability, repair effectiveness, and long-term compatibility in both personal and professional settings.",
+        "subtraits": {
+            "Compromise-Seeking": "Actively looks for middle ground; values fairness and mutual understanding over “winning”",
+            "Defensiveness": "Responds to feedback or criticism with resistance, justification, or self-protection; struggles to receive input openly",
+            "Passive-Aggression": "Avoids direct confrontation but expresses discontent indirectly (e.g., sarcasm, silence, subtle resistance)",
+            "Repair Attempts": "Makes intentional efforts to de-escalate tension (e.g., humor, acknowledgment, emotional bids for reconnection)",
+            "Blame Orientation": "Tendency to externalize responsibility during conflict; avoids introspection or accountability",
+            "Emotional Escalation": "Reacts with heightened intensity (anger, frustration, shutdown); conflict becomes emotionally overwhelming",
+            "Conflict Avoidance": "Prefers to delay, suppress, or escape confrontation; fears negative outcomes of addressing issues directly",
+            "Problem-Solving Orientation": "Views conflict as solvable; remains calm and strategic; focused on outcomes more than emotion",
+            "Reconciliation Willingness": "Prioritizes emotional repair, reconnection, and future trust after tension or disagreement",
+            "Verbal Expression in Conflict": "Ability (or lack thereof) to articulate feelings, needs, or grievances clearly during heated moments"
+        }
+    },
+    "Affection Preferences": {
+        "definition": "Affection Preferences describe an individual’s consistent patterns and comfort levels with expressing and receiving love, warmth, and closeness in interpersonal relationships. These preferences often shape how emotional connection is built and maintained, influencing romantic compatibility, attachment dynamics, and perceived intimacy. High alignment with particular modes—such as touch, words, or emotional sharing—can indicate specific emotional needs or boundaries. Unlike transient emotional states, these preferences tend to remain stable over time and across relationships, though their expression may be context-dependent.",
+        "subtraits": {
+            "Physical Affection": "Comfort with touch-based connection (e.g., hugging, hand-holding, cuddling); sees physical closeness as bonding",
+            "Verbal Affirmation": "Expresses and values affection through spoken or written words (e.g., compliments, encouragement, “I love you”)",
+            "Emotional Closeness": "Desires deep emotional intimacy; values sharing vulnerabilities, inner thoughts, and emotional presence",
+            "Need for Reassurance": "Appreciates ongoing reminders of care, importance, and love through affection-related cues",
+            "Affectional Expressiveness": "Naturally affectionate and expressive in close relationships; uses warmth to strengthen bonds",
+            "Preference Clarity": "Aware of personal needs for affection; can articulate comfort zones and ideal expressions of love",
+            "Affection Boundaries": "May have clear limits on how and when affection is expressed; discomfort if styles don’t match partner’s",
+            "Sensory Affinity": "Either drawn to or sensitive about physical sensation and touch in affection (e.g., tactile sensitivity, responsiveness)",
+            "Consistency Desire": "Feels safe with regular and predictable affectional signals; impacted by sudden withdrawal or changes in affection",
+            "Emotional Responsiveness": "Responds openly and appreciatively to received affection; seeks reciprocal emotional depth"
+        }
+    },
+    "Attachment Orientation": {
+        "definition": "Attachment Orientation captures enduring patterns in how individuals relate to closeness, autonomy, and emotional security in relationships. Unlike full attachment styles, which require contextualized relational data, this trait model focuses on expressed preferences and tendencies toward independence, emotional reassurance, and openness to intimacy. It reflects how a person manages emotional proximity, seeks connection, and responds to relational vulnerability. These orientations are trait-stable and often emerge across various domains of life, not just romantic relationships.",
+        "subtraits": {
+            "Independence": "Values autonomy and emotional self-sufficiency; prefers space and control over dependence on others",
+            "Reassurance-Seeking": "Regularly looks for signs of validation, closeness, or emotional availability; discomfort with emotional ambiguity",
+            "Openness to Intimacy": "Willing to be emotionally vulnerable; desires closeness and emotional depth with trusted others",
+            "Emotional Availability": "Comfortably present in emotionally charged or intimate interactions; does not avoid or deflect connection",
+            "Relational Vigilance": "Monitors dynamics for signs of closeness or distance; sensitive to shifts in emotional tone",
+            "Discomfort with Dependence": "Hesitant to rely on others for emotional stability; often emphasizes self-reliance or emotional control",
+            "Longing for Connection": "Expresses desire to feel emotionally understood, seen, or “held” by another; seeks emotional reciprocity",
+            "Intimacy Tolerance": "Can sustain emotional closeness without overwhelm or withdrawal; maintains relational openness over time",
+            "Boundary Awareness": "Balances emotional openness with internal clarity about what is shared and protected",
+            "Relational Security Focus": "Values emotional consistency and clarity in close relationships; seeks predictability in emotional bonds"
+        }
+    },
+    "Autonomy vs. Interdependence Preference": {
+        "definition": "Autonomy vs. Interdependence Preference reflects an individual’s baseline orientation toward independence or mutual reliance within close relationships. This trait describes how much a person values personal space, self-determination, and individual pursuits versus emotional and practical interconnectedness with a partner. It influences how they structure time, navigate closeness, and maintain identity in shared life contexts. Though both ends of this spectrum can be healthy, misalignment in this preference often leads to conflict in needs for space, support, or relational closeness.",
+        "subtraits": {
+            "Desire for Space": "Prefers alone time; maintains separate routines or emotional space; feels energized by independence",
+            "Desire for Togetherness": "Feels most fulfilled when emotionally or physically close to a partner; prioritizes shared time and connection",
+            "Partnership Balance": "Seeks equilibrium between self and couple identity; values both independence and emotional merging",
+            "Self-Reliance": "Comfortable handling problems alone; doesn’t frequently seek help or emotional support",
+            "Shared Decision-Making": "Preference for joint choices and collaborative planning vs. solo decision autonomy",
+            "Emotional Availability Expectations": "May expect high mutual responsiveness (interdependent) or value emotional minimalism (autonomous)",
+            "Identity Maintenance": "Protects personal goals, interests, or space even in intimate partnerships; resists over-merging",
+            "Role Flexibility": "Comfortable shifting between leading or following in partnership; adaptable to context and needs",
+            "Support-Seeking Frequency": "Often leans on partner (interdependent) or infrequently reaches out for help (autonomous)",
+            "Integration of Lives": "Either embraces deep lifestyle merging (shared goals, routines) or favors looser, parallel connection"
+        }
+    }
+}

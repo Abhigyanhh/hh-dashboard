@@ -7,7 +7,7 @@ PORT = 8000
 app = Flask(__name__)
 CORS(app) 
 
-@app.route("/")
+@app.route("/health")
 def home():
     return jsonify({"message": "Running Flask on Google Colab!"})
 
